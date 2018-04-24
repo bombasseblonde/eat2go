@@ -1,0 +1,113 @@
+12:17:43  [main] 	Initializing Control Panel
+12:17:43  [main] 	Windows Version:  Home  64-bit
+12:17:43  [main] 	XAMPP Version: 7.2.4
+12:17:43  [main] 	Control Panel Version: 3.2.2  [ Compiled: Nov 12th 2015 ]
+12:17:43  [main] 	You are not running with administrator rights! This will work for
+12:17:43  [main] 	most application stuff but whenever you do something with services
+12:17:43  [main] 	there will be a security dialogue or things will break! So think 
+12:17:43  [main] 	about running this application with administrator rights!
+12:17:43  [main] 	XAMPP Installation Directory: "c:\xampp\"
+12:17:43  [main] 	Checking for prerequisites
+12:17:45  [main] 	All prerequisites found
+12:17:45  [main] 	Initializing Modules
+12:17:45  [main] 	Starting Check-Timer
+12:17:45  [main] 	Control Panel Ready
+12:17:55  [Apache] 	Attempting to start Apache app...
+12:17:55  [Apache] 	Status change detected: running
+12:17:58  [mysql] 	Attempting to start MySQL app...
+12:17:59  [mysql] 	Status change detected: running
+12:49:31  [main] 	Deinitializing Modules
+12:49:31  [main] 	Deinitializing Control Panel
+
+22:41:48  [main] 	Initializing Control Panel
+22:41:48  [main] 	Windows Version:  Home  64-bit
+22:41:48  [main] 	XAMPP Version: 7.2.4
+22:41:48  [main] 	Control Panel Version: 3.2.2  [ Compiled: Nov 12th 2015 ]
+22:41:48  [main] 	You are not running with administrator rights! This will work for
+22:41:48  [main] 	most application stuff but whenever you do something with services
+22:41:48  [main] 	there will be a security dialogue or things will break! So think 
+22:41:48  [main] 	about running this application with administrator rights!
+22:41:48  [main] 	XAMPP Installation Directory: "c:\xampp\"
+22:41:48  [main] 	Checking for prerequisites
+22:41:48  [main] 	All prerequisites found
+22:41:48  [main] 	Initializing Modules
+22:41:48  [main] 	Starting Check-Timer
+22:41:48  [main] 	Control Panel Ready
+22:41:51  [Apache] 	Attempting to start Apache app...
+22:41:51  [Apache] 	Status change detected: running
+22:41:52  [mysql] 	Attempting to start MySQL app...
+22:41:54  [mysql] 	Status change detected: running
+00:00:04  [main] 	Deinitializing Modules
+00:00:04  [main] 	Deinitializing Control Panel
+
+10:39:13  [main] 	Initializing Control Panel
+10:39:13  [main] 	Windows Version:  Home  64-bit
+10:39:13  [main] 	XAMPP Version: 7.2.4
+10:39:13  [main] 	Control Panel Version: 3.2.2  [ Compiled: Nov 12th 2015 ]
+10:39:13  [main] 	You are not running with administrator rights! This will work for
+10:39:13  [main] 	most application stuff but whenever you do something with services
+10:39:13  [main] 	there will be a security dialogue or things will break! So think 
+10:39:13  [main] 	about running this application with administrator rights!
+10:39:13  [main] 	XAMPP Installation Directory: "c:\xampp\"
+10:39:13  [main] 	Checking for prerequisites
+10:39:15  [main] 	All prerequisites found
+10:39:15  [main] 	Initializing Modules
+10:39:15  [main] 	Starting Check-Timer
+10:39:15  [main] 	Control Panel Ready
+10:39:17  [Apache] 	Attempting to start Apache app...
+10:39:18  [Apache] 	Status change detected: running
+10:39:19  [mysql] 	Attempting to start MySQL app...
+10:39:21  [mysql] 	Status change detected: running
+12:28:50  [Apache] 	Status change detected: stopped
+12:28:50  [Apache] 	Error: Apache shutdown unexpectedly.
+12:28:50  [Apache] 	This may be due to a blocked port, missing dependencies, 
+12:28:50  [Apache] 	improper privileges, a crash, or a shutdown by another method.
+12:28:50  [Apache] 	Press the Logs button to view error logs and check
+12:28:50  [Apache] 	the Windows Event Viewer for more clues
+12:28:50  [Apache] 	If you need more help, copy and post this
+12:28:50  [Apache] 	entire log window on the forums
+12:28:51  [main] 	Deinitializing Modules
+12:28:51  [main] 	Deinitializing Control Panel
+
+14:18:22  [main] 	Initializing Control Panel
+14:18:22  [main] 	Windows Version:  Home  64-bit
+14:18:22  [main] 	XAMPP Version: 7.2.4
+14:18:22  [main] 	Control Panel Version: 3.2.2  [ Compiled: Nov 12th 2015 ]
+14:18:22  [main] 	You are not running with administrator rights! This will work for
+14:18:22  [main] 	most application stuff but whenever you do something with services
+14:18:22  [main] 	there will be a security dialogue or things will break! So think 
+14:18:22  [main] 	about running this application with administrator rights!
+14:18:22  [main] 	XAMPP Installation Directory: "c:\xampp\"
+14:18:22  [main] 	Checking for prerequisites
+14:18:24  [main] 	All prerequisites found
+14:18:24  [main] 	Initializing Modules
+14:18:24  [main] 	Starting Check-Timer
+14:18:24  [main] 	Control Panel Ready
+14:18:46  [Apache] 	Attempting to start Apache app...
+14:18:47  [Apache] 	Status change detected: running
+14:18:48  [mysql] 	Attempting to start MySQL app...
+14:18:50  [mysql] 	Status change detected: running
+14:18:57  [main] 	Executing "c:\xampp\"
+14:33:52  [main] 	Deinitializing Modules
+14:33:52  [main] 	Deinitializing Control Panel
+
+14:40:21  [main] 	Initializing Control Panel
+14:40:21  [main] 	Windows Version:  Home  64-bit
+14:40:21  [main] 	XAMPP Version: 7.2.4
+14:40:21  [main] 	Control Panel Version: 3.2.2  [ Compiled: Nov 12th 2015 ]
+14:40:21  [main] 	You are not running with administrator rights! This will work for
+14:40:21  [main] 	most application stuff but whenever you do something with services
+14:40:21  [main] 	there will be a security dialogue or things will break! So think 
+14:40:21  [main] 	about running this application with administrator rights!
+14:40:21  [main] 	XAMPP Installation Directory: "c:\xampp\"
+14:40:21  [main] 	Checking for prerequisites
+14:40:21  [main] 	All prerequisites found
+14:40:21  [main] 	Initializing Modules
+14:40:21  [Apache] 	XAMPP Apache is already running on port 80
+14:40:21  [Apache] 	XAMPP Apache is already running on port 443
+14:40:21  [mysql] 	XAMPP MySQL is already running on port 3306
+14:40:21  [main] 	Starting Check-Timer
+14:40:21  [main] 	Control Panel Ready
+15:49:13  [main] 	Deinitializing Modules
+15:49:13  [main] 	Deinitializing Control Panel
+
